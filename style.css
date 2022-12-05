@@ -20,7 +20,7 @@ body {
     padding: 0;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    background-color: #200439;
+    background-color: #68B984;
     color: #fff;
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .heroName {
-    color: #c5b358;
+    color: #FED049;
     font-size: 2.5rem;
     text-transform: uppercase;
 }
@@ -75,7 +75,7 @@ body {
     border-radius: 25px;
     font-size: 0.9rem;
     font-weight: 700;
-    color: #200439;
+    color: #9C254D;
     text-decoration: none;
     box-shadow: 8px 8px 4px #000;
 }
