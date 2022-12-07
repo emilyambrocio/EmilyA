@@ -1,6 +1,6 @@
 /*
 Color Palette
-background color: #200439
+background color: #68B984
 primary: #512C73
 secondary: #361356
 tertiary: #6F4D8F
@@ -20,7 +20,7 @@ body {
     padding: 0;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    background-color: #68B984;
+    background-color: darkred;
     color: #fff;
 }
 
